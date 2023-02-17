@@ -11,6 +11,7 @@
     <form id="form1" runat="server">
         <div>
             <p>1</p>
+            <a>2</a>
         </div>
     </form>
 </body>
